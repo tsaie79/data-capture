@@ -34,5 +34,5 @@
 		"ghcr.io/devcontainers/features/docker-in-docker:2": {}
 	},
 
-	"runArgs": ["--network", "host", "--privileged"],
+	"runArgs": ["--network", "host"]
 }
